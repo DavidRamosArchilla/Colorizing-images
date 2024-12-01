@@ -29,5 +29,6 @@ def download_coco(root_dir, split='train'):
         with zipfile.ZipFile(filename, 'r') as zip_ref:
             zip_ref.extractall(root_dir)
 
-download_coco('data', 'val')
-download_coco('data', 'train')
+if __name__ == "__main__":
+    download_coco('data', 'val')
+    download_coco('data', 'train')
