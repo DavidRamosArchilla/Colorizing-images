@@ -1,7 +1,7 @@
 # Image Colorization with Pix2Pix
 
 An implementation of the [Pix2Pix](https://arxiv.org/abs/1611.07004) paper for image colorization using PyTorch.  
-Try it on Google Colab:  
+Try a trained on Google Colab:  
 
 <a href="https://colab.research.google.com/github/DavidRamosArchilla/Colorizing-images/blob/main/image_colorization_demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -39,7 +39,7 @@ python train.py
 
 ## Results
 
-Here are some examples of colorized images:
+Here are some examples of colorized images, the upper row are the generations of the model:
 
 ![Example 1](example_results/example1.png)
 ![Example 2](example_results/example2.png)
