@@ -38,8 +38,8 @@ python train.py
 
 Here are some examples of colorized images:
 
-![Example 1](results/example1.png)
-![Example 2](results/example2.png)
+![Example 1](example_results/example1.png)
+![Example 2](example_results/example2.png)
 
 ## Acknowledgments
 
