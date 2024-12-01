@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+*.pth
+upload_to_huggingface.py
+runs/
+data/
